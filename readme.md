@@ -41,3 +41,43 @@
         - random 
     
 
+## Promise, Aync/Await 
+    - Promise - Asynchronous Operation 
+        - Resolve 
+        - Reject Use Catch 
+
+
+## SetInterval and ClearInterval with X++ and ++x 
+    - SetTimeout
+    - SetInterval
+    - make digital clock 
+
+## JavaScript event loop and concurrency 
+    - Call stack 
+    - Event Queue
+    - Event Loop JS
+
+## Error Handing: Try, catch, throw and finally 
+    - Try
+    - Catch 
+    - Throw 
+    - Finally 
+
+
+
+
+
+# Interview Question 
+    - What is Promise?
+    - How does it works? 
+    - Tell me something about js engine v8 internal mechanism.
+    - What is event loop in JavaScript?
+    - If javascript is single threaded, how does it handle asynchronous call?
+    - Differences between setTimeOut and SetInterval 
+    - Can you explain the difference between an async function and a regular function in JavaScript?
+    - What's the error handling strategy for promises hat were rejected while awaiting? 
+    - What are the state of a promise?
+    - Can you explain what the then() method does? 
+    
+
+

@@ -64,6 +64,23 @@
     - Finally 
 
 
+## What is debugging? 
+    - How does the debugging process work? 
+    - Some Debugging techniques:
+        - Using console.log() method
+        - Setting the breakpoints
+        - Backtracking.
+
+    - Syntax Error 
+    - Type Error 
+    - Reference Error 
+    - Internal Eror 
+    - Range Error 
+
+## Understand Syntax errors messages
+    -
+## Understand Reference errors and type error message
+
 
 
 
